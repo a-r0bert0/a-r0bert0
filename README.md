@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @a-r0bert0 or just Alex.
+- 👋 Hi, I’m @a-r0berto
 - 👀 I’m interested in Web Development, Computer Graphics and AI.
 - 🌱 I’m currently learning Web Development.
 - 💞️ I’m looking to collaborate on open source projects and improve my skills as a developer.
